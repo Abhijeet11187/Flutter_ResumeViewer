@@ -1,0 +1,60 @@
+{
+  "name":"Abhijeet Kalyan Lokhande",
+  "emailId":"lokhandeabhijeet11187@gmail.com",
+  "mobileNo":"9168889973",
+  "careerObjective":"Self-motivated and hardworking fresher seeking for an opportunity to work in a challenging environment to prove my skills and utilize my knowledge & intelligence in the growth of the organization.",
+  "educationalDetails":[
+        { 
+			"qualification":"BE",
+		    "college":"JSPM Hadapsar",
+			"year":"2015-2019",
+			"percentage":"67"
+		},
+		  { 
+			"qualification":"HSC",
+		    "college":"Mahatma Gandhi Jr College",
+			"year":"2014-2015",
+			"percentage":"68"
+		},
+		  { 
+			"qualification":"SSC",
+		    "college":"Mahatma Gandhi Vidyalay",
+			"year":"2012-2013",
+			"percentage":"88"
+		}
+  ],
+  "technicalSkills":{
+          "programmingLanguages":[
+				"Flutter","Angular","Ionic","node.js"
+		  ],
+		  "githubLink":"https://github.com/Abhijeet11187"
+		},
+  "certification":"C language",
+  "workExperience":{
+		"companyName":"Angular Minds",
+        "profile":"Full stack Developer Internship",
+        "Duration":"4 months",
+        "Note":"Currently Working in Softflame Solutions",		
+	},
+  "projects":[
+        {
+			"projectName":"Employees Management (MEAN Stack)",
+			"languageUsed":"Angular Framework,node.js, Mongoose",
+			"description":"This project is useful for any organization for managing the details of their  employees. Basically CRUD operations are performed on the employees details in this project. All employees details can be update and delete as per the requirement.RESTful API were used for backend communication with mongoose framework. Auth Guard is also implemented because of that only authorized person going to be access the details. Token is also generated for the reset password link."
+		},
+		 {
+			"projectName":"Task Manager integrated with Email and Calendar",
+			"languageUsed":"Ionic Framework,node.js, Mongoose",
+			"description":"User have to register with application. When this process is done the user can add tasks with the description. This tasks can be reschedulable . As per user needs user can update or delete the tasks. User can also make specific task as favorite  task.Operations were handled with the help of RESTful API with nodejs.When user enables Notify me facility reminder is going to be set in calendar specific date. User can also email the details of task to any person for that Gmail is also integrated in the project. When user forgets the password of account , password can be reset using the link sent to the authorized gmail account"
+		}
+  ],
+  "personalSkills":{
+		"strengths":["Hardworking","Knowledge of Core Subjects","Ability to grasp the new Skills quickly"],
+		"hobbies":["Playing Karate","Reading Books"]
+  },
+  "declaration":"I hereby declare that all the information furnished above is true and genuine to the best of my knowledge.",
+  "place":"Pune",
+  "date":" /  /  ",
+  
+  
+};
